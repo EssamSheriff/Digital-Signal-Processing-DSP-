@@ -1,0 +1,18 @@
+G:\lectures&&sections\4th year\DSP\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+G:\lectures&&sections\4th year\DSP\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+G:\lectures&&sections\4th year\DSP\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+G:\lectures&&sections\4th year\DSP\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+G:\lectures&&sections\4th year\DSP\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+G:\lectures&&sections\4th year\DSP\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\code\Visual Studio Projects\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+E:\code\Visual Studio Projects\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\code\Visual Studio Projects\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\code\Visual Studio Projects\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\code\Visual Studio Projects\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\code\Visual Studio Projects\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\Dell\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Dell\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Dell\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Dell\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
